@@ -1,0 +1,21 @@
+#parent{
+	margin: 0 auto; 
+    width:900px; height:400px; 
+    background-color:#57becf; 
+    position: relative;
+    overflow:hidden;
+}
+
+.score{
+	position:absolute;
+    left:5px;
+    top:5px;
+	z-index:20;
+}
+
+#startBtn{
+	position:absolute; 
+    left:400px;
+    top:200px;
+    display:block;
+}
